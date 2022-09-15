@@ -1,2 +1,3 @@
 # textos
 Textos para disciplina de pensamento computacional
+Eu sou a Grazielli estudo no colegio Duque de Caxias e estou no 1 ano do [NEM] tenho 16 anos, e moro na Lagoa da Cruz com meus pais e meus irmãos...
